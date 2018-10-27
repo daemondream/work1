@@ -111,7 +111,7 @@ load data local infile '/home/demon/tools/mysql/data/test/test.csv' into table t
 default-character-set=utf8
 
 [mysqld]
-default-storage-engine=INNODB
+hello world
 character-set-server=utf8
 collation-server=utf8_general_ci
 secure_file_priv=/home/demon/tools/mysql/data/test
